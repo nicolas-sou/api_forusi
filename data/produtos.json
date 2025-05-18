@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "codigo": "1131",
+    "nome": "TORNEIRA TANQUE COM SAÍDA P/ MÁQUINA DE LAVAR 1/4 DE VOLTA",
+    "descricao": "",
+    "imagem": "1.jpg"
+  },
+  {
+    "id": 2,
+    "codigo": "5001",
+    "nome": "SABONETEIRA PAREDE",
+    "descricao": "",
+    "imagem": "2.jpg"
+  },
+  {
+    "id": 3,
+    "codigo": "4900",
+    "nome": "ACABAMENTO PARA REGISTRO 1/2 X 3/4 N1",
+    "descricao": "",
+    "imagem": "3.jpg"
+  },
+  {
+    "id": 4,
+    "codigo": "1198",
+    "nome": "TORNEIRA LAVATÓRIO MESA MEGA LINE CURVE CROMADO",
+    "descricao": "",
+    "imagem": "4.jpg"
+  },
+  {
+    "id": 5,
+    "codigo": "3159",
+    "nome": "TORNEIRA COZINHA PAREDE MEGA LINE CURVE CROMADO",
+    "descricao": "",
+    "imagem": "5.jpg"
+  },
+  {
+    "id": 6,
+    "codigo": "5007",
+    "nome": "PORTA SHAMPOO",
+    "descricao": "",
+    "imagem": "6.jpg"
+  },
+  {
+    "id": 7,
+    "codigo": "1856",
+    "nome": "DUCHA HIGIÊNICA SML CURVE 1/4 DE VOLTA CROMADO COM GATILHO",
+    "descricao": "",
+    "imagem": "7.jpg"
+  },
+  {
+    "id": 8,
+    "codigo": "1856",
+    "nome": "DUCHA HIGIÊNICA CURVE COM DERIVAÇÃO PARA CAIXA ACOPLADA COM GATILHO",
+    "descricao": "",
+    "imagem": "8.jpg"
+  },
+  {
+    "id": 9,
+    "codigo": "5006",
+    "nome": "CABIDE SIMPLES PAREDE CURVE CROMADO",
+    "descricao": "",
+    "imagem": "9.jpg"
+  },
+  {
+    "id": 10,
+    "codigo": "5006",
+    "nome": "CABIDE DUPLO CURVE CROMADO",
+    "descricao": "",
+    "imagem": "10.jpg"
+  },
+  {
+    "id": 11,
+    "codigo": "5003",
+    "nome": "PORTA TOALHA ARGOLA PAREDE CURVE",
+    "descricao": "",
+    "imagem": "11.jpg"
+  },
+  {
+    "id": 12,
+    "codigo": "5004",
+    "nome": "PORTA TOALHA RETO PAREDE 50CM CURVE",
+    "descricao": "",
+    "imagem": "12.jpg"
+  },
+  {
+    "id": 13,
+    "codigo": "5005",
+    "nome": "PAPELEIRA PAREDE CURVE",
+    "descricao": "",
+    "imagem": "13.jpg"
+  },
+  {
+    "id": 14,
+    "codigo": "3159",
+    "nome": "TORNEIRA COZINHA MESA PNE BLACK",
+    "descricao": "",
+    "imagem": "14.jpg"
+  },
+  {
+    "id": 15,
+    "codigo": "1196",
+    "nome": "TORNEIRA LAVATÓRIO MESA CISNE JR UP PNE 20 CM BLACK",
+    "descricao": "",
+    "imagem": "15.jpg"
+  },
+  {
+    "id": 16,
+    "codigo": "1190",
+    "nome": "TORNEIRA LAVATÓRIO BICA MÓVEL PAREDE CROMADO",
+    "descricao": "",
+    "imagem": "16.jpg"
+  },
+  {
+    "id": 17,
+    "codigo": "3159",
+    "nome": "TORNEIRA LAVATÓRIO MESA MEGA LINE BLACK FOSCO",
+    "descricao": "",
+    "imagem": "17.jpg"
+  },
+  {
+    "id": 18,
+    "codigo": "7003",
+    "nome": "MONOCOMANDO COZINHA MESA GOURMET COM DUCHA EXTENSIVA BLACK MATTE",
+    "descricao": "",
+    "imagem": "18.jpg"
+  }
+]
