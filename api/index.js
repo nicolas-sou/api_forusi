@@ -5,11 +5,15 @@ const fs = require('fs');
 
 const app = express();
 
-const produtos = JSON.parse(fs.readFileSync(path.join(__dirname, '../../data/produtos.json'), 'utf-8'));
+// Lê produtos com fs (funciona em ambiente serverless)
+const produtosPath = path.join(__dirname, '../data/produtos.json');
+const produtos = JSON.parse(fs.readFileSync(produtosPath, 'utf-8'));
 
-app.use('/static', express.static(path.join(__dirname, '../../')));
+// Arquivos estáticos
+app.use('/assets', express.static(path.join(__dirname, '../assets')));
+app.use('/images', express.static(path.join(__dirname, '../public/images')));
 
-// API de produtos
+// Rotas da API
 app.get('/api/produtos', (req, res) => {
   res.json(produtos);
 });
@@ -22,7 +26,7 @@ app.get('/api/produtos/:id', (req, res) => {
 
 // Página principal
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, '../../index.html'));
+  res.sendFile(path.join(__dirname, '../index.html'));
 });
 
 module.exports = app;
