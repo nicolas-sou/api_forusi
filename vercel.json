@@ -5,8 +5,11 @@
   ],
   "routes": [
     { "src": "/api/.*", "dest": "/api/index.js" },
+
     { "src": "/assets/(.*)", "dest": "/assets/$1" },
-    { "src": "/images/(.*)", "dest": "/public/images/$1" },
+    { "src": "/public/images/(.*)", "dest": "/public/images/$1" },  
+    { "src": "/images/(.*)", "dest": "/public/images/$1" },         
+
     { "src": "/", "dest": "/api/index.js" }
   ]
 }
