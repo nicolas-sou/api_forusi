@@ -8,8 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "express": "^5.1.0",
+    "serverless-http": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolas-sou/api_forusi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicolas-sou/api_forusi/issues"
+  },
+  "homepage": "https://github.com/nicolas-sou/api_forusi#readme",
+  "description": ""
 }
